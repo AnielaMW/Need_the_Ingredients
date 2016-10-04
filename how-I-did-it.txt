@@ -1,0 +1,5 @@
+1.  I started the server to see the page in the local browser window.
+2.  I opened a new terminal tab so the server could continue to run while I worked on the curl requests.
+3.  I typed `curl --data "ingredient=3 tablespoons good olive oil" http://localhost:4567/ingredients`.
+4. Then I hit enter... and refreshed the browser window to make sure it worked.
+5. I repeated steps 3 and 4 for the remaining ingredients.
